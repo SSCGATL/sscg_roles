@@ -1,6 +1,6 @@
 # Main SSCG Server Role
 class sscg_roles::server {
 
-  include sscg_profiles::apache
+  include sscg_profiles::lampstack
 
 }
